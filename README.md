@@ -3,7 +3,7 @@ My Importer and Exporter Plugin for Blender (Sleeping Dogs: Definitive Edition),
 
 
 # vNewLatest
-Rewrite of most of the code and adding new stuff, importing through Blender's file view fixed, drag-and-drop, export back to game for modding supported.
+Rewrite of most of the code more cleanly and organised as much as possible, importing through Blender's file view fixed, drag-and-drop, export back to game for modding supported.
 
 7 Vertex Declaration IDs supported for now:
 ```
