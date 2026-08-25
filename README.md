@@ -8,9 +8,9 @@ Rewrite of most of the code more cleanly and organised as much as possible, impo
 7 Vertex Declaration IDs supported for now:
 ```
 661362023 - Skinned
-3795119994 - Skinned
-3213889182 - Skinned
-3499094810 - Skinned
+3795119994 - VehicleUVNTC
+3213889182 - VehicleUV2NTC
+3499094810 - VehicleGlassUV2NTC
 2434669137 - UVNTC
 4067430294 - UVN
 2611383740 - UVNT
